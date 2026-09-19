@@ -1,0 +1,53 @@
+speaker_name,ncb,role,term_start,term_end,reappointable,source_url,note,former_minister
+Ewald Nowotny,AT,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Martin Kocher,AT,governor,2025-09-01,2031-08-31,,https://www.oenb.at/en/About-Us/Organization/Governing-Board.html,minister until March 2025,1.0
+Robert Holzmann,AT,governor,2019-09-01,2025-08-31,,https://www.oenb.at/Presse/Pressearchiv/2025/20250901.html,start DERIVED from 'six years' ending Aug 2025; FPÖ-nominated; repeatedly dissented (Handelsblatt),
+Jan Smets,BE,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Pierre Wunsch,BE,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10; start date to fill,
+Dimitar Radev,BG,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,GC member since euro adoption 2026-01-01; outside main sample,
+Christodoulos Patsalides,CY,governor,,,,https://www.centralbank.cy/images/media/redirectfile/Annual%20Report/CBC-AR-2023-ENGLISH.pdf,appointed April 2024 (CBC Annual Report 2023); exact start date to fill,
+Chrystalla Georghadji,CY,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Constantinos Herodotou,CY,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Jens Weidmann,DE,governor,2011-05-01,2021-12-31,1.0,https://en.wikipedia.org/wiki/Jens_Weidmann,"term dates [UNVERIFIED, Wikipedia]; BBankG §7: eight-year appointment, reappointment not excluded by statute; head of division in Federal Chancellery before (not a minister)",0.0
+Joachim Nagel,DE,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10; start date to fill,
+Boris Vujčić,ECB,executive_board,2026-06-01,2034-05-31,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,MOVER: previously governor Hrvatska narodna banka (HR) until 2026-05; HR row to add,
+Christine Lagarde,ECB,executive_board,2019-11-01,2027-10-31,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,,
+Frank Elderson,ECB,executive_board,2020-12-15,2028-12-14,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,,
+Isabel Schnabel,ECB,executive_board,2020-01-01,2027-12-31,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,,
+Luis de Guindos,ECB,executive_board,,2026-05-31,0.0,https://www.consilium.europa.eu/en/infographics/ecb-executive-board-appointment-procedure/,succeeded by Vujčić 2026-06-01,
+Philip R. Lane,ECB,executive_board,2019-06-01,2027-05-31,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,,
+Piero Cipollone,ECB,executive_board,2023-11-01,2031-10-31,0.0,https://en.wikipedia.org/wiki/Executive_Board_of_the_European_Central_Bank,,
+Ardo Hansson,EE,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Madis Müller,EE,governor,,2026-06-10,,https://www.bsi.si/sl/napovednik-dogodkov/mednarodna-okrogla-miza-s-financno-pismenostjo-do-financne-stabilnosti,end date is an upper bound [UNVERIFIED],
+Ülo Kaasik,EE,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,listed on ECB GC page 2026-06-10; Madis Müller still listed as Eesti Pank governor on a Banka Slovenije event page for 2026-05-22 -> switch between late May and 10 June 2026 [UNVERIFIED],
+José Luis Escrivá,ES,governor,2024-09-06,,0.0,https://www.bde.es/wbe/en/sobre-banco/mision/historia-del-banco/gobernadores-banco-espana.html,6-year non-renewable term; minister until 2024-09-06,1.0
+Luis M Linde,ES,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Margarita Delgado,ES,acting_governor,2024-06-11,2024-09-06,,https://www.bde.es/wbe/en/sobre-banco/mision/historia-del-banco/gobernadores-banco-espana.html,acting governor,
+Pablo Hernández de Cos,ES,governor,2018-06-11,2024-06-11,0.0,https://en.wikipedia.org/wiki/Pablo_Hern%C3%A1ndez_de_Cos,,
+Erkki Liikanen,FI,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Olli Rehn,FI,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10,
+Emmanuel Moulin,FR,governor,2026-06-02,,,https://www.banque-france.fr/fr/communiques-de-presse/emmanuel-moulin-est-nomme-gouverneur-de-la-banque-de-france,"six-year term; parliamentary committees did not block (52 for, 58 against, 3/5 needed to block); former secretary-general to the President",0.0
+François Villeroy de Galhau,FR,governor,2015-11-01,2026-06-01,,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villeroy_de_Galhau,,
+Yannis Stournaras,GR,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10; former minister per Econostream 2024-09-04,1.0
+Ante Žigman,HR,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10; successor of Vujčić,
+Gabriel Makhlouf,IE,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10,
+Fabio Panetta,IT,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,MOVER: ECB Executive Board until 2023-10-31 (Cipollone succeeded 2023-11-01); start at Banca d'Italia to verify,
+Ignazio Visco,IT,governor,2011-11-01,2023-10-31,1.0,https://www.bancaditalia.it/chi-siamo/storia/governatori-direttori-generali/governatori/ignazio-visco/index.html,reappointed Oct 2017 for a second six-year term (AP/Fox 2017-10-27) -> reappointable = 1 demonstrated,0.0
+Gediminas Šimkus,LT,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10,
+Vitas Vasiliauskas,LT,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Gaston Reinesch,LU,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10,
+Ilmars Rimsevics,LV,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Mārtiņš Kazāks,LV,governor,,,,https://eng.lsm.lv/article/economy/banks/13.05.2025-latvian-central-bank-posts-its-annual-results.a598801/,second term started by May 2025,
+Alexander Demarco,MT,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10,
+Edward Scicluna,MT,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Mario Vella,MT,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Klaas Knot,NL,governor,,2025-06-30,,https://en.wikipedia.org/wiki/Olaf_Sleijpen,start date to fill,
+Olaf Sleijpen,NL,governor,2025-07-01,,,https://en.wikipedia.org/wiki/Olaf_Sleijpen,succeeded Klaas Knot,
+Carlos da Silva Costa,PT,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Mário Centeno,PT,governor,,2025-09-30,,https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banco-de-portugal-com-resultados-negativos-em-2025-guerra-leva-a-preferir-provisoes-a-dividendos,end approximate (successor since October 2025); former minister per Econostream 2024-09-04,1.0
+Álvaro Santos Pereira,PT,governor,2025-10-01,,,https://www.jornaldenegocios.pt/empresas/banca---financas/detalhe/banco-de-portugal-com-resultados-negativos-em-2025-guerra-leva-a-preferir-provisoes-a-dividendos,start month only (October 2025),
+Boštjan Vasle,SI,governor,2019-01-09,2025-01-08,,https://www.24ur.com/novice/slovenija/guverner-banke-slovenije-postal-primoz-dolenc.html,,
+Primož Dolenc,SI,acting_governor,2025-01-09,2026-02-28,,https://www.bsi.si/sl/mediji/objave/vodenje-banke-slovenije-z-jutrisnjim-dnem-prevzema-namestnik-guvernerja-primoz-dolenc,acting head; invited to GC without monetary-policy voting rights,
+Primož Dolenc,SI,governor,2026-03-01,2032-02-29,,https://www.bsi.si/en/about-us/e/primoz-dolenc,governor after ~14 months as acting head,
+Josef Makuch,SK,governor,,,,,appears in BIS corpus as NCB head; term dates and attributes TO BE CODED,
+Peter Kažimír,SK,governor,,,,https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html,in office 2026-06-10; former minister per Econostream 2024-09-04,1.0

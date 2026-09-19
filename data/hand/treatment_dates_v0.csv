@@ -1,0 +1,17 @@
+ncb,fy_covered,gross_fy,gross_on,gross_pub_assumed,gross_left_censored,net_fy,net_on,net_pub_assumed,net_left_censored,remit_fy,remit_on,remit_pub_assumed,remit_left_censored,net_exit_fy
+AT,2022-2025,2023.0,2024H2,True,False,2023.0,2024H2,True,False,2023.0,2024H2,True,False,
+BE,2021-2024,2022.0,2023H2,True,False,2022.0,2023H2,True,False,,,,,
+DE,2023-2025,2023.0,2024H2,True,True,2024.0,2025H2,True,False,2023.0,2024H2,True,True,
+ECB,2023-2025,2023.0,2024H2,False,True,2023.0,2024H2,False,True,2023.0,2024H2,False,True,
+ES,2023-2025,2023.0,2024H2,True,True,,,,,2023.0,2024H2,True,True,
+FI,2023-2025,2023.0,2024H2,True,True,,,,,2023.0,2024H2,True,True,
+FR,2023-2025,2023.0,2024H2,True,True,2024.0,2025H2,False,False,,,,,2025.0
+GR,2023-2024,,,,,,,,,,,,,
+IE,2023-2025,2023.0,2024H2,True,True,,,,,2023.0,2024H2,True,True,
+IT,2023-2025,2023.0,2024H2,True,True,,,,,,,,,
+LT,2023-2024,,,,,,,,,,,,,
+LU,2023-2024,,,,,,,,,,,,,
+LV,2024-2024,,,,,,,,,,,,,
+NL,2022-2025,2022.0,2023H2,True,True,2022.0,2023H2,True,True,2022.0,2023H2,True,True,
+PT,2022-2025,2023.0,2024H2,True,False,,,,,2023.0,2024H2,True,False,
+SK,2022-2024,2022.0,2023H2,True,True,2022.0,2023H2,True,True,,,,,

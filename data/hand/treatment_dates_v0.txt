@@ -1,0 +1,16 @@
+ncb fy_covered  gross_fy gross_on gross_pub_assumed gross_left_censored  net_fy net_on net_pub_assumed net_left_censored  remit_fy remit_on remit_pub_assumed remit_left_censored  net_exit_fy
+ AT  2022-2025    2023.0   2024H2              True               False  2023.0 2024H2            True             False    2023.0   2024H2              True               False          NaN
+ BE  2021-2024    2022.0   2023H2              True               False  2022.0 2023H2            True             False       NaN      NaN              None                None          NaN
+ DE  2023-2025    2023.0   2024H2              True                True  2024.0 2025H2            True             False    2023.0   2024H2              True                True          NaN
+ECB  2023-2025    2023.0   2024H2             False                True  2023.0 2024H2           False              True    2023.0   2024H2             False                True          NaN
+ ES  2023-2025    2023.0   2024H2              True                True     NaN    NaN            None              None    2023.0   2024H2              True                True          NaN
+ FI  2023-2025    2023.0   2024H2              True                True     NaN    NaN            None              None    2023.0   2024H2              True                True          NaN
+ FR  2023-2025    2023.0   2024H2              True                True  2024.0 2025H2           False             False       NaN      NaN              None                None       2025.0
+ GR  2023-2024       NaN      NaN              None                None     NaN    NaN            None              None       NaN      NaN              None                None          NaN
+ IE  2023-2025    2023.0   2024H2              True                True     NaN    NaN            None              None    2023.0   2024H2              True                True          NaN
+ IT  2023-2025    2023.0   2024H2              True                True     NaN    NaN            None              None       NaN      NaN              None                None          NaN
+ LU  2023-2024       NaN      NaN              None                None     NaN    NaN            None              None       NaN      NaN              None                None          NaN
+ LV  2024-2024       NaN      NaN              None                None     NaN    NaN            None              None       NaN      NaN              None                None          NaN
+ NL  2022-2025    2022.0   2023H2              True                True  2022.0 2023H2            True              True    2022.0   2023H2              True                True          NaN
+ PT  2022-2025    2023.0   2024H2              True               False     NaN    NaN            None              None    2023.0   2024H2              True               False          NaN
+ SK  2022-2024    2022.0   2023H2              True                True  2022.0 2023H2            True              True       NaN      NaN              None                None          NaN

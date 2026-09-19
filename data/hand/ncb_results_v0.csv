@@ -1,0 +1,48 @@
+ncb,fy,gross_loss,pre_provision_result_eur_m,provisions_released_eur_m,net_result_eur_m,loss_carried_forward_eur_m,transfer_to_state_eur_m,negative_equity,publication_date,source_url,note,net_loss_technical
+AT,2022,0.0,,,,,,,,https://www.oenb.at/en/Publications/Oesterreichische-Nationalbank/Annual-Report/2024/ar-2024/html-version.html,inferred: AR 2024 states 2023 and 2024 are the only negative operating results in OeNB history,0
+AT,2023,1.0,,,-2210.0,-2062.0,0.0,,,https://www.forbes.at/artikel/oenb-milliardenschwund-und-aussichten-auf-verbesserung,,0
+AT,2024,1.0,,,-2122.0,-4184.0,0.0,1.0,2025-03-25,https://www.oenb.at/Presse/Pressearchiv/2025/20250325-2.html,negative equity for the first time,0
+AT,2025,1.0,,,-1000.0,-5200.0,0.0,,,https://www.oenb.at/Ueber-Uns/Jahresabschluss.html,operating result -1.0bn,0
+BE,2021,0.0,,,,,122.5,,,https://www.brusselstimes.com/294118/national-bank-of-belgium-to-post-loss-for-first-time-in-70-years,inferred: FY2022 first loss in ~70 years; FY2021 dividend contributed 122.5m to federal budget,0
+BE,2022,1.0,,,-580.0,,,,,https://www.belganewsagency.eu/national-bank-of-belgium-reports-37bn-euro-loss-for-2024,first loss in ~70 years; share price -27% on 2022-09-21,0
+BE,2023,1.0,,,-3370.0,,,,,https://www.nbb.be/en/media/17037,,0
+BE,2024,1.0,,,-3679.0,-553.0,,,2025-03-26,https://www.nbb.be/en/media/17037,no variable dividend; excess loss carried forward (552.9m per shareholder Q&A),0
+DE,2023,1.0,,,0.0,,0.0,,,https://www.bundesbank.de,net zero only via provisions (Bundesbank press 05.03.2026; exact figures open),0
+DE,2024,1.0,-19800.0,,-19200.0,,0.0,,,https://www.banque-france.fr/system/files/2026-02/BDF260_6_EN_Partage_revenu-monetaire.pdf,P&L before provisions per BdF Bulletin 260/6; record loss >19bn; net = -19200 DERIVED as cumulative -27.8bn minus FY2025 -8.6bn (confirmed -19.2bn by ECO/Banco de Portugal report coverage 2026-04-23),0
+DE,2025,1.0,,,-8600.0,-27800.0,0.0,,2026-03-05,https://www.bundesbank.de,cumulative balance-sheet loss 27.8bn; sixth year without transfer; transfers zero since FY2020 by provisioning choice -> remit definition left-censored and not loss-driven for DE,0
+ECB,2023,1.0,-7886.0,6620.0,-1266.0,,0.0,,2024-02-22,https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250220~eca25e4e21.fr.html,no distribution to NCBs,0
+ECB,2024,1.0,-7944.0,0.0,-7944.0,,0.0,,2025-02-20,https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250220~eca25e4e21.fr.html,provision exhausted,0
+ECB,2025,1.0,-1254.0,0.0,-1254.0,,0.0,,2026-02-26,https://ecb.europa.eu/press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html,,0
+ES,2023,1.0,,6612.0,0.0,,0.0,,,https://www.elconciso.es/finanzas/banco-espana-beneficios-resultado_0_2006336305.html,zero result via provisions,0
+ES,2024,1.0,-7549.0,7549.0,0.0,,0.0,,2025-03-31,https://www.bde.es/f/webbe/GAP/Secciones/SalaPrensa/NotasInformativas/25/presbe2025-25.pdf,operating loss covered by provisions,0
+ES,2025,1.0,,541.0,234.0,,234.0,,2026-03-30,https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/el-banco-de-espana-obtuvo-un-beneficio-de-234-millones-de-euros-en-2025.html,full transfer to Treasury; 541m provisions used mainly for FX-related latent losses -> gross_loss flag 1 is a judgment call,0
+FI,2023,1.0,,,0.0,,0.0,,,https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/interest-paid-on-central-bank-deposits-weakened-bank-of-finlands-operating-profit-as-in-previous-year/,profit 0.00 after provisions; operating loss amount for 2023 not yet read; transfer inferred from zero profit,0
+FI,2024,1.0,-1027.0,,0.0,,0.0,,2025-03-28,https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2025/interest-paid-on-central-bank-deposits-weakened-bank-of-finlands-operating-profit-as-in-previous-year/,general provision fully used plus 241m from real value loss provision,0
+FI,2025,1.0,-215.0,,0.0,,0.0,,2026-03-13,https://www.suomenpankki.fi/en/news-and-topical/press-releases-and-news/releases/2026/bank-of-finlands-operating-profit-for-2025-again-weakened-by-interest-paid-on-central-bank-deposits/,covered by provision against real value loss,0
+FR,2023,1.0,-12400.0,,0.0,,,,,https://www.banque-france.fr/system/files/2025-03/Blog-ABQ-pertes-2025.pdf,ordinary loss fully absorbed by Fund for General Risks (net figure inferred as zero; verify),0
+FR,2024,1.0,-17400.0,10100.0,-7700.0,,,,2025-03-19,https://www.banque-france.fr/en/press-release/press-release-2024-annual-report-and-financial-statements,pre-tax loss 17.4bn per governor column,0
+FR,2025,,,,8100.0,,,,2026-03-24,https://www.banque-france.fr/en/news/banque-de-france-2025-results,return to profit (reason not yet read),0
+GR,2023,0.0,176.1,,,,,,,https://www.ot.gr/2025/03/04/epixeiriseis/trapezes/trapeza-tis-ellados-kathara-kerdi-829-ekat-eyro-protasi-gia-merisma-067-eyro/,pre-provision profit,0
+GR,2024,0.0,31.9,51.0,82.9,,69.6,,2025-03-04,https://www.bankofgreece.gr/en/news-and-media/press-office/news-list/news?announcement=a96b883a-ebe0-4338-80b7-845f446bea1e,listed; statutory dividend 13.3m to shareholders; high-yield own sovereign portfolio -> never gross loss so far,0
+IE,2023,1.0,-132.0,,0.0,,0.0,,,https://www.audit.gov.ie/en/find-report/publications/2025/1-exchequer-financial-outturn-for-2024.pdf,loss 132m covered by financial risk reserve; breakeven reported; nil transfer to Exchequer in 2024 (C&AG),0
+IE,2024,1.0,-795.0,,0.0,,,,2025-05-29,https://www.audit.gov.ie/en/find-report/publications/2025/1-exchequer-financial-outturn-for-2024.pdf,loss 795m covered by financial risk reserve (C&AG); RTE report 2025-05-29; losses expected 2025 to be covered by buffers,0
+IE,2025,1.0,-104.6,,,,,,,https://www.rte.ie/news/business/2026/0605/1576935-central-bank-of-irelands-2025-results/,media report dated 2026-06-05; annual report date to check,0
+IT,2023,1.0,-7100.0,,815.0,,,,,https://borsaefinanza.it/banca-d-italia-utile-come-verra-distribuito/,gross loss; net profit via provisions and tax,0
+IT,2024,1.0,-7300.0,5800.0,844.0,,644.0,,2025-03-31,https://www.bancaditalia.it/pubblicazioni/bilancio-esercizio/2025-bilancio-esercizio/index.html,dividend to private participants 200m + 140m stabilisation reserve,0
+IT,2025,0.0,,,1650.0,,,,,https://borsaefinanza.it/banca-d-italia-utile-come-verra-distribuito/,gross profit restored,0
+LT,2023,,,,,,,,,https://www.baltictimes.com/president_to_propose_increasing_bank_of_lithuania_s_contribution_to_state_budget/,governor: 2023 'not a profitable year' (sign of net result unclear -> left blank); interest on Finance Ministry deposits 110m transferred,0
+LT,2024,,,,20.0,,,,,https://www.baltictimes.com/president_to_propose_increasing_bank_of_lithuania_s_contribution_to_state_budget/,"profit of more than 20m (governor, Jan 2025); PRESSURE EVENT: President proposes law change to raise profit contribution for defence (2025-01-24)",0
+LU,2023,,,,0.0,,,,2024-04-24,https://www.bcl.lu/fr/media_actualites/communiques/2024/07/ra/index.html,'résultat équilibré' (balanced result); discharge date; gross result not stated,0
+LU,2024,,,,0.0,,,,2025-04-25,https://www.bcl.lu/fr/media_actualites/communiques/2025/07/rapport-annuel/index.html,'résultat équilibré'; discharge date; press release 2025-07-31,0
+LV,2024,,,,,,,,2025-05-13,https://eng.lsm.lv/article/economy/banks/13.05.2025-latvian-central-bank-posts-its-annual-results.a598801/,total recognised gains 214m (2023: 143m); capital and reserves +30%; gross_loss definition unclear -> left blank,0
+NL,2022,1.0,,,-460.0,,0.0,,,https://fd.nl/economie/1471511/dnb-boekt-fors-verlies-negatief-eigen-vermogen-mogelijk,no dividend to state,0
+NL,2023,1.0,-3500.0,2300.0,-1100.0,,0.0,,2024-03-14,https://www.dnb.nl/algemeen-nieuws/nieuws-2024/dnb-boekt-negatief-resultaat-van-3-5-miljard-euro-in-2023/,1.1bn charged to capital and reserves; annual report 14 March,0
+NL,2024,1.0,,,-3000.0,,0.0,,,https://www.accountant.nl/nieuws/2026/3/dnb-voorziet-ook-voor-komende-jaren-nog-verliezen/,reported as more than 3bn (exact open),0
+NL,2025,1.0,,,-967.0,,0.0,,,https://www.accountant.nl/nieuws/2026/3/dnb-voorziet-ook-voor-komende-jaren-nog-verliezen/,losses expected to persist longer,0
+PT,2022,0.0,,,,,238.0,,,https://www.dn.pt/economia/banco-de-portugal-deixou-de-dar-lucros-ao-estado-n%C3%A3o-esperaria-dividendos-t%C3%A3o-cedo-diz-centeno,last profitable year; dividend about 238m,0
+PT,2023,1.0,-1054.0,,,,0.0,,,https://observador.pt/2025/05/21/banco-de-portugal-volta-a-usar-almofada-antiga-para-compensar-prejuizos-anuais-de-1-142-milhoes/,covered by general risk provision; net figure not yet read,0
+PT,2024,1.0,-1142.0,,1.5,,0.0,,2025-05-21,https://jornaleconomico.sapo.pt/noticias/banco-de-portugal-com-lucros-de-15-milhoes/,net positive via deferred tax assets; remaining provisions 1715.8m,0
+PT,2025,1.0,-304.0,304.0,-1.4,,0.0,,2026-04-23,https://eco.sapo.pt/2026/04/23/banco-de-portugal-encerra-2025-com-prejuizos-de-14-milhoes-de-euros/,"TECHNICAL net loss from deferred taxes, not operating; treat separately in net definition; governor changed Oct 2025",1
+SK,2022,1.0,,,-156.0,,,1.0,,https://openiazoch.zoznam.sk/financie/narodna-banka-slovenska-po-vyse-dekade-opat-skoncila-v-strate-co-bolo-dovodom/,first negative result since 2011; LEGACY negative equity (about -1.5bn) predates 2022,0
+SK,2023,1.0,,,0.0,,,,2024-03-15,https://www.nrsr.sk/web/Dynamic/DocumentPreview.aspx?DocID=544311,loss covered by reserves for financial risks; report date,0
+SK,2024,1.0,,,0.0,,,,2025-03-11,https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=561207,monetary policy loss 293m; covered by reserves,0
