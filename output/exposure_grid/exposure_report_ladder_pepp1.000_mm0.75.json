@@ -1,0 +1,64 @@
+{
+  "config": "ladder_pepp1.000_mm0.75",
+  "n_ncb": 19,
+  "months": [
+    "2015-03-01",
+    "2026-08-01"
+  ],
+  "share_approximated_yields": 1.0,
+  "validation": {
+    "n": 8,
+    "spearman": 0.7380952380952381,
+    "p_value_descriptive": 0.03655276105286081,
+    "pairs": [
+      {
+        "ncb": "DE",
+        "year": 2023,
+        "nii_per_keypp": -0.7074074074074075,
+        "carry_per_keypp_eur_m_pa": -1449.882456808344
+      },
+      {
+        "ncb": "DE",
+        "year": 2024,
+        "nii_per_keypp": -0.6851851851851852,
+        "carry_per_keypp_eur_m_pa": -1397.0682977038593
+      },
+      {
+        "ncb": "FR",
+        "year": 2023,
+        "nii_per_keypp": -0.735,
+        "carry_per_keypp_eur_m_pa": -1335.2201814537405
+      },
+      {
+        "ncb": "FR",
+        "year": 2024,
+        "nii_per_keypp": -0.8,
+        "carry_per_keypp_eur_m_pa": -1291.9282010482711
+      },
+      {
+        "ncb": "IT",
+        "year": 2023,
+        "nii_per_keypp": -0.36875,
+        "carry_per_keypp_eur_m_pa": -958.988354504473
+      },
+      {
+        "ncb": "IT",
+        "year": 2024,
+        "nii_per_keypp": -0.38125,
+        "carry_per_keypp_eur_m_pa": -958.1879509144811
+      },
+      {
+        "ncb": "ES",
+        "year": 2023,
+        "nii_per_keypp": -0.48333333333333334,
+        "carry_per_keypp_eur_m_pa": -1155.0213387381134
+      },
+      {
+        "ncb": "ES",
+        "year": 2024,
+        "nii_per_keypp": -0.5416666666666666,
+        "carry_per_keypp_eur_m_pa": -1140.653905682608
+      }
+    ]
+  }
+}

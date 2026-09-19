@@ -1,0 +1,13 @@
+config,spearman_vs_BdF,corr_with_baseline_2022plus
+ladder_pepp0.889_mm0.75,0.738,0.989
+ladder_pepp0.889_mm1.5,0.786,0.984
+ladder_pepp0.889_mm1,0.762,0.989
+ladder_pepp1.000_mm0.75,0.738,0.989
+ladder_pepp1.000_mm1.5,0.786,0.984
+ladder_pepp1.000_mm1,0.762,0.989
+net_flow_pepp0.889_mm0.75,0.81,0.999
+net_flow_pepp0.889_mm1.5,0.786,0.997
+net_flow_pepp0.889_mm1,0.786,1.0
+net_flow_pepp1.000_mm0.75,0.786,0.998
+net_flow_pepp1.000_mm1.5,0.786,0.998
+net_flow_pepp1.000_mm1,0.786,1.0

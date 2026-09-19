@@ -1,0 +1,284 @@
+{
+  "mode": "REAL",
+  "planted": null,
+  "controls": [
+    "pre_spread_de_x_dfr",
+    "pre_debt_ratio_x_dfr"
+  ],
+  "hicp_included": false,
+  "cells": 168,
+  "passages": 1248,
+  "successors_after_2022": [
+    "alvaro santos pereira",
+    "boris vujcic",
+    "bostjan vasle",
+    "christodoulos patsalides",
+    "constantinos herodotou",
+    "edward scicluna",
+    "emmanuel moulin",
+    "fabio panetta",
+    "jose luis escriva",
+    "madis muller",
+    "margarita delgado",
+    "martin kocher",
+    "olaf sleijpen",
+    "olaf sleijpen; klaas knot; steven maijoor",
+    "peter kazimir",
+    "piero cipollone",
+    "pierre wunsch",
+    "primoz dolenc"
+  ],
+  "H4_attribute_coverage": {
+    "coverage": {
+      "former_minister": 0.23154193872425916,
+      "reappointable": 0.3641386238071321
+    },
+    "threshold": 0.8,
+    "estimated": {
+      "former_minister": false,
+      "reappointable": false
+    }
+  },
+  "estimates": {
+    "H3_main": {
+      "estimate": 0.03447044434886923,
+      "t": 0.18477999211704185,
+      "p_ri": 0.807,
+      "n_perm_valid": 999
+    },
+    "R1_ncb_fe": {
+      "estimate": 0.0757987923702955,
+      "t": 0.3611042438060918,
+      "p_ri": 0.629,
+      "n_perm_valid": 999
+    },
+    "R3_no_late_successors": {
+      "estimate": -0.05728131130176992,
+      "t": -0.34967564685466124,
+      "p_ri": 0.647,
+      "n_perm_valid": 999
+    },
+    "R4_no_controls": {
+      "estimate": 0.01623365806320419,
+      "t": 0.2195944876861929,
+      "p_ri": 0.795,
+      "n_perm_valid": 999
+    },
+    "R5_share_outcome": {
+      "estimate": 0.02172978358322851,
+      "t": 0.08669084067448131,
+      "p_ri": 0.935,
+      "n_perm_valid": 999
+    },
+    "R9_core_x_hy": {
+      "estimate": 0.1086787497406292,
+      "t": 0.7841003728298519,
+      "p_ri": 0.315,
+      "n_perm_valid": 999
+    },
+    "R10_contemporaneous_controls": {
+      "estimate": 0.009877785393069126,
+      "t": 0.13186868592801262,
+      "p_ri": 0.87,
+      "n_perm_valid": 999
+    },
+    "R11_no_retrospective": {
+      "estimate": 0.0021609710081045485,
+      "t": 0.010427154064753705,
+      "p_ri": 0.985,
+      "n_perm_valid": 999
+    },
+    "F1_lead_exposure": {
+      "estimate": -0.012706845430040449,
+      "t": -0.15290531779724184,
+      "p_ri": 0.856,
+      "n_perm_valid": 999
+    },
+    "F6_debt_term_given_exposure": {
+      "estimate": 0.0008035378887984574,
+      "t": 0.41212730775361167,
+      "p_ri": 0.506,
+      "n_perm_valid": 999,
+      "note": "p_ri permutes exposure only and is not a test of the debt term; interpret t (jackknife)"
+    },
+    "H1_net_loss": {
+      "estimate": -0.1628587303325441,
+      "t": -0.6649591958614807,
+      "p_ri": 0.46774193548387094,
+      "n_perm_valid": 991
+    },
+    "R6_gross_loss": {
+      "estimate": 0.029512846310497002,
+      "t": 0.07195964795765872,
+      "p_ri": 0.934,
+      "n_perm_valid": 999
+    },
+    "R12_leave_one_ncb_out": {
+      "estimates": {
+        "AT": {
+          "beta": 0.034074112312959655,
+          "t": 0.18288077287688595,
+          "n_cells": 165
+        },
+        "BE": {
+          "beta": 0.03705147341910813,
+          "t": 0.20443039394143506,
+          "n_cells": 164
+        },
+        "CY": {
+          "beta": 0.03362849459476667,
+          "t": 0.18269221807931263,
+          "n_cells": 165
+        },
+        "DE": {
+          "beta": 0.049267750648989805,
+          "t": 0.21688187700223469,
+          "n_cells": 147
+        },
+        "EE": {
+          "beta": 0.008863330743368808,
+          "t": 0.04288046017254213,
+          "n_cells": 166
+        },
+        "ES": {
+          "beta": 0.08537265794138131,
+          "t": 0.7835453226271264,
+          "n_cells": 151
+        },
+        "FI": {
+          "beta": 0.04232725617976855,
+          "t": 0.2109036876749952,
+          "n_cells": 151
+        },
+        "FR": {
+          "beta": 0.04801312566025585,
+          "t": 0.23908102316046004,
+          "n_cells": 147
+        },
+        "GR": {
+          "beta": 0.10586664656248929,
+          "t": 0.6682899834021422,
+          "n_cells": 151
+        },
+        "IE": {
+          "beta": 0.025587487023874495,
+          "t": 0.12671508152965227,
+          "n_cells": 154
+        },
+        "IT": {
+          "beta": -0.12960860698895146,
+          "t": -0.4995706102635281,
+          "n_cells": 148
+        },
+        "LT": {
+          "beta": 0.034370478375029184,
+          "t": 0.18455209187783872,
+          "n_cells": 165
+        },
+        "MT": {
+          "beta": 0.0016342075973471962,
+          "t": 0.009599448382515285,
+          "n_cells": 164
+        },
+        "NL": {
+          "beta": 0.05027144491381803,
+          "t": 0.3213850474676448,
+          "n_cells": 153
+        },
+        "PT": {
+          "beta": 0.036014530234080196,
+          "t": 0.19254927143546946,
+          "n_cells": 166
+        },
+        "SI": {
+          "beta": 0.034777628276007284,
+          "t": 0.18671717489985007,
+          "n_cells": 165
+        },
+        "SK": {
+          "beta": 0.034470444348804335,
+          "t": 0.18516881204566912,
+          "n_cells": 166
+        }
+      },
+      "note": "H3 re-estimated dropping each NCB; no RI (point estimates and jackknife t)"
+    },
+    "R8_callaway_santanna_H1": {
+      "estimate": -0.14334652920179236,
+      "note": "point estimate; inference via RI in run with --perm"
+    },
+    "F3_placebo_dates_never_treated": {
+      "mean_placebo_att": 0.023926470308957254,
+      "share_as_extreme_as_H1": 0.6363636363636364,
+      "draws": 495
+    },
+    "H2_net_minus_gross_exploratory": {
+      "estimate": -0.1923715766430411
+    },
+    "F2_board_vs_never_treated_descriptive": {
+      "estimate": NaN,
+      "note": "difference-in-differences of passage-weighted means, 2022H1-2023H2 vs 2024H2-2026H1; descriptive, no inference"
+    },
+    "F4_slovenia_acting_period_descriptive": {
+      "mean_acting": NaN,
+      "mean_before": 0.75,
+      "cells": 3
+    }
+  },
+  "open_items": [
+    "HICP control pending",
+    "H4 skipped: attribute coverage {'former_minister': 0.23154193872425916, 'reappointable': 0.3641386238071321} below 0.8",
+    "R7 human-only subsample requires validation codes",
+    "H5 NCB actions dataset not yet built"
+  ],
+  "exposure_variants_point_estimates": {
+    "ladder_pepp0.889_mm0.75": {
+      "beta": 0.044597265806267224,
+      "t": 0.2686821697419725
+    },
+    "ladder_pepp0.889_mm1.5": {
+      "beta": 0.03982238814283897,
+      "t": 0.25866265813773676
+    },
+    "ladder_pepp0.889_mm1": {
+      "beta": 0.041981734973207396,
+      "t": 0.2607184821715217
+    },
+    "ladder_pepp1.000_mm0.75": {
+      "beta": 0.04635502380247413,
+      "t": 0.2802007074937394
+    },
+    "ladder_pepp1.000_mm1.5": {
+      "beta": 0.04135697036221673,
+      "t": 0.26973871505225355
+    },
+    "ladder_pepp1.000_mm1": {
+      "beta": 0.04364674207405173,
+      "t": 0.27184555159228246
+    },
+    "net_flow_pepp0.889_mm0.75": {
+      "beta": 0.03563479692319468,
+      "t": 0.18415520477874395
+    },
+    "net_flow_pepp0.889_mm1.5": {
+      "beta": 0.03343428122253777,
+      "t": 0.1884495310078126
+    },
+    "net_flow_pepp0.889_mm1": {
+      "beta": 0.03447044434886923,
+      "t": 0.18477999211704185
+    },
+    "net_flow_pepp1.000_mm0.75": {
+      "beta": 0.03622757960572099,
+      "t": 0.18613246355991778
+    },
+    "net_flow_pepp1.000_mm1.5": {
+      "beta": 0.033995035394269506,
+      "t": 0.19074910149348012
+    },
+    "net_flow_pepp1.000_mm1": {
+      "beta": 0.03505946820603011,
+      "t": 0.18684071784104433
+    }
+  }
+}

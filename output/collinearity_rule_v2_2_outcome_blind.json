@@ -1,0 +1,23 @@
+{
+  "cells": 189,
+  "ncbs": 17,
+  "share_after_fe": 0.10381485802401139,
+  "spread_x_dfr": {
+    "share": 0.09742968199905228,
+    "ratio_to_fe": 0.9384945840461268
+  },
+  "debt_x_dfr": {
+    "share": 0.10298901666716041,
+    "ratio_to_fe": 0.9920450562417572
+  },
+  "main_v2_2_spread_and_debt": {
+    "share": 0.08993678263548581,
+    "ratio_to_fe": 0.8663189869670128
+  },
+  "main_plus_core_x_hy": {
+    "share": 0.07680390281954387,
+    "ratio_to_fe": 0.7398160945495862
+  },
+  "rule_triggered_main": false,
+  "within_corr_E_debt_x_dfr": 0.08916352155207019
+}

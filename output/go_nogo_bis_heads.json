@@ -1,0 +1,15 @@
+{
+  "Y1": {
+    "mean_per_cell": 0.37777777777777777,
+    "ncbs_with_any": 9,
+    "cells": 180,
+    "passes": false
+  },
+  "pooled": {
+    "mean_per_cell": 0.8777777777777778,
+    "ncbs_with_any": 13,
+    "cells": 180,
+    "passes": false
+  },
+  "decision": "stop_speech_design"
+}
