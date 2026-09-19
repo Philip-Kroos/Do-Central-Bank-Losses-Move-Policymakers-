@@ -1,0 +1,23 @@
+{"mode": "binary", "beta": -0.2, "sigma_u": 0.1, "reps": 300, "n_units": 13, "power": 0.3333333333333333, "seconds": 7.9}
+{"mode": "binary", "beta": -0.3, "sigma_u": 0.1, "reps": 300, "n_units": 13, "power": 0.6533333333333333, "seconds": 7.9}
+{"mode": "dose", "beta": 0.0, "sigma_u": 0.2, "reps": 300, "n_units": 18, "power": 0.16666666666666666, "seconds": 0.9}
+{"mode": "dose", "beta": -0.05, "sigma_u": 0.2, "reps": 300, "n_units": 18, "power": 0.37, "seconds": 0.9}
+{"mode": "dose", "beta": -0.1, "sigma_u": 0.2, "reps": 300, "n_units": 18, "power": 0.71, "seconds": 0.9}
+{"mode": "dose", "beta": -0.15, "sigma_u": 0.2, "reps": 300, "n_units": 18, "power": 0.8966666666666666, "seconds": 0.8}
+{"mode": "dose", "beta": 0.0, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.0575, "seconds": 1.4}
+{"mode": "dose", "beta": -0.05, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.15, "seconds": 1.4}
+{"mode": "dose", "beta": -0.1, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.355, "seconds": 1.4}
+{"mode": "dose", "beta": -0.15, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.66, "seconds": 1.4}
+{"mode": "dose", "beta": -0.2, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.8275, "seconds": 1.4}
+{"mode": "binary_extended_2027H2", "beta": 0.0, "reps": 300, "power": 0.05}
+{"mode": "binary_extended_2027H2", "beta": -0.2, "reps": 300, "power": 0.31333333333333335}
+{"mode": "binary_extended_2027H2", "beta": -0.3, "reps": 300, "power": 0.6033333333333334}
+{"controls": true, "mode": "dose", "beta": 0.0, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.0925, "seconds": 1.2}
+{"controls": true, "mode": "dose", "beta": -0.2, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.81, "seconds": 1.3}
+{"controls": true, "mode": "dose", "beta": -0.25, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.9, "seconds": 1.1}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": 0.0, "sigma_u": 0.2, "reps": 300, "n_units": 18, "power": 0.03333333333333333, "seconds": 3.6}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": -0.15, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.3775, "seconds": 5.4}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": -0.2, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.5475, "seconds": 4.6}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": -0.25, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.74, "seconds": 5.1}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": -0.3, "sigma_u": 0.2, "reps": 400, "n_units": 18, "power": 0.875, "seconds": 4.8}
+{"controls": true, "jackknife": true, "mode": "dose", "beta": 0.0, "sigma_u": 0.2, "reps": 600, "n_units": 18, "power": 0.051666666666666666, "seconds": 7.2}

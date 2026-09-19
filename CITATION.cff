@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "Do Central Bank Losses Move Policymakers? Pre-Registered Evidence from the Eurosystem"
+type: article
+authors:
+  - family-names: Kroos
+    given-names: Philip
+date-released: 2026-09-15
+version: "2026-09-15 draft"

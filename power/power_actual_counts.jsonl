@@ -1,0 +1,12 @@
+{"f": 0.6, "beta": 0.0, "reps": 400, "studentized": false, "power": 0.0575, "mean_att_or_t": -0.00954906714746529, "seconds": 10.7}
+{"f": 0.6, "beta": 0.0, "reps": 400, "studentized": true, "power": 0.0625, "mean_att_or_t": 0.030463488700258355, "seconds": 132.9}
+{"f": 0.6, "beta": -0.05, "reps": 400, "studentized": false, "power": 0.0625, "mean_att_or_t": -0.04289044271695316, "seconds": 10.5}
+{"f": 0.6, "beta": -0.1, "reps": 400, "studentized": false, "power": 0.1, "mean_att_or_t": -0.10229398188907167, "seconds": 10.8}
+{"f": 0.6, "beta": -0.15, "reps": 400, "studentized": false, "power": 0.145, "mean_att_or_t": -0.14762004253723016, "seconds": 10.7}
+{"f": 0.6, "beta": -0.2, "reps": 400, "studentized": false, "power": 0.24, "mean_att_or_t": -0.1984335213562228, "seconds": 10.4}
+{"f": 0.6, "beta": -0.3, "reps": 400, "studentized": false, "power": 0.3775, "mean_att_or_t": -0.2937154222892819, "seconds": 10.6}
+{"f": 1.0, "beta": -0.05, "reps": 400, "studentized": false, "power": 0.065, "mean_att_or_t": -0.04199897113522859, "seconds": 10.7}
+{"f": 1.0, "beta": -0.1, "reps": 400, "studentized": false, "power": 0.135, "mean_att_or_t": -0.09504238906862328, "seconds": 10.7}
+{"f": 1.0, "beta": -0.15, "reps": 400, "studentized": false, "power": 0.1825, "mean_att_or_t": -0.15178442353037666, "seconds": 10.6}
+{"f": 1.0, "beta": -0.2, "reps": 400, "studentized": false, "power": 0.25, "mean_att_or_t": -0.19504603574147925, "seconds": 10.7}
+{"f": 1.0, "beta": -0.3, "reps": 400, "studentized": false, "power": 0.5525, "mean_att_or_t": -0.30839487550843186, "seconds": 10.6}
